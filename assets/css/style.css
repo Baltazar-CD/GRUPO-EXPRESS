@@ -8333,7 +8333,7 @@ ul.comment-list .themeholy-comment-item:first-child:not(.children .themeholy-com
 /* Small devices */
 @media (max-width: 767px) {
   .hero-style1 {
-    padding: 100px 0 190px 0;
+    padding: 100px 0 100px 0;
   }
   .hero-style1 .hero-text,
   .hero-style3 .hero-text {

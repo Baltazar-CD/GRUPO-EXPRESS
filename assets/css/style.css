@@ -14296,8 +14296,8 @@ hr.style1 {
 .counter-card_text {
   font-family: var(--style-font);
   color: var(--white-color);
-  font-weight: 500;
-  font-size: 16px;
+  font-weight: 700;
+  font-size: 25px;
   line-height: 26px;
   display: block;
   margin-bottom: -6px;
@@ -21897,8 +21897,8 @@ hr.style1 {
 .img-box5 .about-counter-5 .counter-card_text {
   font-family: var(--title-font);
   color: var(--white-color);
-  font-weight: 600;
-  font-size: 18px;
+  font-weight: 700;
+  font-size: 25px;
   line-height: 28px;
   display: block;
   margin-bottom: -6px;
